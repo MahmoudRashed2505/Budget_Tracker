@@ -1,0 +1,4 @@
+1 Business_Trips.
+2 Long_Distance.
+3 Public_Transport.
+4 Taxi.

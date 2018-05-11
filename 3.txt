@@ -1,0 +1,6 @@
+1 Energy,Utilities.
+2 Maintaince,Repairs.
+3 Mortage.
+4 Property_insurance.
+5 Rent.
+6 Services.

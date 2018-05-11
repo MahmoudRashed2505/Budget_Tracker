@@ -1,0 +1,6 @@
+1 Fuel.
+2 Leasing.
+3 Parking.
+4 Rentals.
+5 Vehicle_insurance.
+6 Vehicle_Maintenance.

@@ -1,0 +1,4 @@
+1-Internet.
+2-Phone,cell phone.
+3-Postal_services.
+4-Software,apps,games.

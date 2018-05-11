@@ -1,0 +1,14 @@
+1 Food&Drinks.
+2 Shopping.
+3 Housing.
+4 Transportaion.
+5 Vehicle.
+6 Life&Entertainment.
+7 Commnucation&PC.
+8 Financial.
+9 Investments.
+10 usercategories.
+11 2ahwa
+12 koleya
+13 guavajuice
+14 M

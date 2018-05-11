@@ -1,0 +1,3 @@
+1 Bar,Cafe
+2 Groceries.
+3 Restaurant,Fast-Food

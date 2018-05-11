@@ -1,0 +1,7 @@
+1-Advisory.
+2-Charges,Fees.
+3-Child_support.
+4-Fines.
+5-Insurances.
+6-Loan,interests.
+7-Taxes.

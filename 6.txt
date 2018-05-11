@@ -1,0 +1,13 @@
+1 Active Sports,Fitness.
+2 Alcohol,Tobaco.
+3 Books,Audio,subscribtion.
+4 Charity,gifts.
+5 Clulture,Sports_Evnets.
+6 Education,Developments.
+7 Health_Care,Doctor.
+8 Hobbies.
+9 Holiday,trips,hotels.
+10 Life_Events.
+11 Lottery,Gambling.
+12 TV,Streaming.
+13 Wellness,beauty.

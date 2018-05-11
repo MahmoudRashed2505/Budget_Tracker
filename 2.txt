@@ -1,0 +1,11 @@
+1 Clothes&Shoes.
+2 Drug-store,Chemist.
+3 Electronics, accessories.
+4 Free_Time.
+5 Gifts,joy.
+6 Health_and_Beauty.
+7 Home,Garden.
+8 Jewels,accessories.
+9 Kids.
+10 Pets,Animals.
+11 Stationary,tools.
